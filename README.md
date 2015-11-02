@@ -1,4 +1,4 @@
-Yet Another 404 page by georgemagiafas.com
+Yet Another 404 Page
 =======================
 Yet Another *404* custom page built with love and attention.. and responsiveness!
 
