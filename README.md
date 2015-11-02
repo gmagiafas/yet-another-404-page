@@ -1,11 +1,14 @@
 Yet Another 404 page by georgemagiafas.com
 =======================
-Yet Another 404 custom page built with love and attention.. and responsiveness!
+Yet Another *404* custom page built with love and attention.. and responsiveness!
+
+Live Demo
+----------------------
+https://www.georgemagiafas.com/notfound
 
 Installation
 -----------------------
-Dowload sources and have fun :)
-
+Download sources and have fun :)
 
 About Me
 -----------------------
