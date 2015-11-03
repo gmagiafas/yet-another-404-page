@@ -4,7 +4,7 @@ Yet Another *404* custom page built with love and attention... and responsivenes
 
 Live Demo
 ----------------------
-https://www.georgemagiafas.com/notfound
+https://www.georgemagiafas.com/notfound  
 https://cdn.rawgit.com/gmagiafas/yet-another-404-page/master/index.html
 
 Installation
